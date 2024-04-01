@@ -1,2 +1,5 @@
 # vagrant-ubuntu-server
-Repository contains Vagrantfile to download ubuntu vagrant box and setup the virtual machine
+
+The repository contains Vagrantfile to download the Ubuntu vagrant box and set up the virtual machine.
+
+
